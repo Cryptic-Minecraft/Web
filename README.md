@@ -1,2 +1,4 @@
 # Web
-https://www.cryptic.ee | Website
+
+Website | https://www.cryptic.ee
+IP | play.cryptic.ee
